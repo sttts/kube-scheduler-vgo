@@ -1,4 +1,4 @@
-module k8s.io/kube-scheduler/config
+module github.com/sttts/kube-scheduler/config
 
 require (
 	github.com/gogo/protobuf v1.1.0 // indirect
